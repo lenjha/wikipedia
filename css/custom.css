@@ -1,9 +1,29 @@
 body {
 
 }
+.card-header {
+  margin: 10px;
+  border: 1px solid gray;
+}
+
+.card-green {
+  background-color: #edfcef;
+}
+
+.card-green .card-header {
+  background-color: #cdf2d2;
+}
+
+.card-blue {
+  background-color: #dee8f9;
+}
+
+.card-blue .card-header {
+  background-color: #b7d1ff;
+}
 
 .sidebar {
-  background-color: gray;
+  background-color: #ccc;
   position: absolute;
   top: 0;
   left: 0;
