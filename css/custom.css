@@ -14,12 +14,22 @@ body {
   background-color: #cdf2d2;
 }
 
+.greenimage {
+  float: left;
+  margin-right: 10px;
+}
+
 .card-blue {
   background-color: #dee8f9;
 }
 
 .card-blue .card-header {
   background-color: #b7d1ff;
+}
+
+.blueimage {
+  float: right;
+  margin-left: 10px;
 }
 
 .sidebar {
