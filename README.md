@@ -1,20 +1,22 @@
-# _{Application Name}_
+# _Wikipedia_
 
-#### _{Brief description of application}, {Date of current version}_
+#### _Recreation of Wikipedia Main Page, 12 October 2017_
 
-#### By _**{List of contributors}**_
+#### By _Bertram, Luke & Ha, Lena_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_The purpose of this application is to display and develop our cumulative abilities in CSS, HTML, and Bootstrap.  This application is NOT intended to be functional (the links purposely do not work)._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _Make a GitHub account_
+* _Using the mouse, touchpad, or touchscreen, press delicately upon the Clone Repo button_
+* _Get the file_
+* _In the Command Line Interface, navigate to the Wikipedia folder_
+* _From the Terminal, type the follow command_
+* _$ open index.html_
+* _You did iiiiiit_
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
@@ -32,6 +34,6 @@ _{Tell me about the languages and tools you used to create this app. Assume that
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*We do not have licenses - only a driver's license*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2016 **_Bertram, Luke & Ha, Lena_**
